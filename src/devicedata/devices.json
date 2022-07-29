@@ -1,0 +1,58 @@
+[
+	{
+		"id": 266,
+		"device_name": "EGM1000702293133",
+		"fw_version": "1Y5Vv10b (D210)",
+		"device_type": "G1Y.163",
+		"data_poll_enabled": true,
+		"created_on": "2021-08-20 16:34:42.602022+03"
+	},
+	{
+		"id": 49,
+		"device_name": "EGM1000702293151",
+		"fw_version": "YAU5v10c (C227)",
+		"device_type": "G3Y.147",
+		"data_poll_enabled": true,
+		"created_on": "2021-08-20 16:34:42.602022+03"
+	},
+	{
+		"id": 131,
+		"device_name": "EGM1000702293129",
+		"fw_version": "YBT5v10c (772A)",
+		"device_type": "G1Y.163",
+		"data_poll_enabled": true,
+		"created_on": "2021-08-20 16:34:42.602022+03"
+	},
+	{
+		"id": 176,
+		"device_name": "EGM1000702293128",
+		"fw_version": "1Y5Vv10b (D210)",
+		"device_type": "G1Y.163",
+		"data_poll_enabled": false,
+		"created_on": "2021-08-20 16:34:42.602022+03"
+	},
+	{
+		"id": 237,
+		"device_name": "EGM1000702293123",
+		"fw_version": "1Y5Vv10b (D210)",
+		"device_type": "G3B.547",
+		"data_poll_enabled": true,
+		"created_on": "2021-08-20 16:34:42.602022+03"
+	},
+	{
+		"id": 125,
+		"device_name": "EGM1000702293179",
+		"fw_version": "YBT5v10c (772A)",
+		"device_type": "G1Y.163",
+		"data_poll_enabled": true,
+		"created_on": "2021-08-20 16:34:42.602022+03"
+	},
+	{
+		"id": 221,
+		"device_name": "EGM1000702293136",
+		"fw_version": "YAU5v10c (C227)",
+		"device_type": "G15.666",
+		"data_poll_enabled": true,
+		"created_on": "2021-08-20 16:34:42.602022+03"
+	}
+]
